@@ -1,0 +1,2 @@
+rootProject.name='VisMeal'
+include ':app'
